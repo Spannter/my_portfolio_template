@@ -8,29 +8,29 @@ import { FaGithub } from "react-icons/fa6";
 // You can also add more properties if you want to display more information about your projects.
 const myProjects = [
   {
-    title: 'Project 1',
-    description: 'Description of project 1',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'HTML Npower project',
+    description: 'Here the task was to create a IT team member table using HTML',
+    repositoryLink: 'https://github.com/Spannter/path2tech_HTML_homework',
   },
   {
-    title: 'Project 2',
-    description: 'Description of project 2',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'CSS Npower project',
+    description: 'Here the task was to create an email UI using CSS',
+    repositoryLink: 'https://github.com/Spannter/CSS-Npower-project',
   },
   {
-    title: 'Project 3',
-    description: 'Description of project 3',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'JS Npower project',
+    description: 'Here the task was to create a todo list using JS that would mark a task as complete or not',
+    repositoryLink: 'https://github.com/Spannter/js-project/tree/master',
   },
   {
-    title: 'Project 4',
-    description: 'Description of project 4',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'DOM Npower project',
+    description: 'As a team, the task was to complete a table for books and to be able to delete them from the table. I was responsible for the css design of the table',
+    repositoryLink: 'https://github.com/Spannter/Path2Tech-DOM-Project',
   },
   {
-    title: 'Project 5',
-    description: 'Description of project 5',
-    repositoryLink: 'Link to the GitHub repository',
+    title: 'React Weather app',
+    description: 'Here the task was to create a weather app using react to accurately report live weather at a city in the world',
+    repositoryLink: 'https://github.com/Spannter/Weather-App',
   },
 ];
 const Projects = () => {

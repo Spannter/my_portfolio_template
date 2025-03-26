@@ -1,9 +1,9 @@
 import { NavLink } from "react-router-dom";
-import PlaceholderHero from '../assets/placeholder_hero_background.jpg'
+import PlaceholderHero from '../assets/lotr-fanart-bkg.png'
 
-const fullName = 'Replace with your name';
-const personalQuote = 'Replace with your personal quote';
-const professionalSummary = 'Replace with your professional summary';
+const fullName = 'Terreassa Spann';
+const personalQuote = "“Fantasy is escapist, and that is it's glory. If a soldier is imprisoned by the enemy, don't we consider it his duty to escape?” - J.R.R. Tolkien, The Lord of the Rings";
+const professionalSummary = 'Hi there! My name is Terreassa Spann and I am a full stack developer with all sorts of fun and nerdy interests. With a background in Animation and coding I hope to continue to share cool ideas while exploring my own curiosity in the many ways technology and art can dance.';
 
 const Home = () => {
   return (
