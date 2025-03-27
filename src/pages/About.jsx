@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import PlaceholderImage from '../assets/placeholder_image.png';
+import PlaceholderImage from '../assets/headshot.png';
 
 // Replace these variables with your information
 const firstName = 'Terreassa';
@@ -9,7 +9,7 @@ const mainDuty = 'As a Vault specialist ';
 const jobLocation = 'NJ';
 const briefJobDescription = 'Currently I am responsible for the receiving, tracking and shipping of financial packages to various customers. ';
 const careerObjective = 'I am pursuing a challenging and creative career in full stack development and project management.';
-const personalLife = '';
+const personalLife = 'Growing up, I could not see my life where I did not pursue Animation, the whimsical worlds and story telling captured me freed me into a life of endless adventure. Now, I still keep that sense of adventure but exploring it in other ways. I did not have the chance to explore technology back in my college years, but I am more than excited to see where my creative story telling skills and now my coding skills take me.';
 
 const About = () => {
   return (
